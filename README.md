@@ -1,4 +1,4 @@
-# @forminator/react-wire
+# @world/react-wire
 
 [![NPM version](https://badgen.net/npm/v/@forminator/react-wire)](https://npmjs.com/package/@forminator/react-wire)
 [![NPM downloads](https://badgen.net/npm/dm/@forminator/react-wire)](https://npmjs.com/package/@forminator/react-wire)
@@ -33,7 +33,7 @@ connect react components with wire
 ## Install
 
 ```bash
-yarn add @forminator/react-wire
+yarn add @world/react-wire
 ```
 
 Add [proxy-polyfill](https://github.com/GoogleChrome/proxy-polyfill) to support ie browser. proxy support is more than 90% in browsers, [more detail](https://caniuse.com/#feat=proxy)
